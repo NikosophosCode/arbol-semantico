@@ -22,7 +22,7 @@ function App() {
                 <TreePine size={19} />
             </div>
             <div>
-                <p className="text-xs font-black uppercase tracking-[0.2em] text-slate-500">Laboratorio Visual</p>
+                <p className="text-xs fon   t-black uppercase tracking-[0.2em] text-slate-500">Laboratorio Visual</p>
                 <p className="text-sm font-extrabold text-slate-900">Arboles Semanticos</p>
             </div>
             </div>
